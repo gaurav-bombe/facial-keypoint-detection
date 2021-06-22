@@ -18,7 +18,7 @@ Notebook 4 : Fun Filters and Keypoint Uses
 
 ---
 
-##License & Copyright
+## License & Copyright
 
 This Repository created just to showcase my work for the Computer Vision Nanodegree program of Udacity. You are advisied not to Copy any Solution Codes.
 
